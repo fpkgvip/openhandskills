@@ -1,0 +1,17 @@
+{
+  "name": "fusionlm-research-skills",
+  "owner": {
+    "name": "FusionLM"
+  },
+  "metadata": {
+    "description": "Standalone scientific research skills for OpenHands and Qwen"
+  },
+  "plugins": [
+    {
+      "name": "fusionlm-research-kit",
+      "source": "./plugins/fusionlm-research-kit",
+      "description": "Seven on-demand scientific harness research skills, Brave helper and offline coordination tools",
+      "category": "other"
+    }
+  ]
+}

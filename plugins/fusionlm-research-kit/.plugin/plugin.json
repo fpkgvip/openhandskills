@@ -1,0 +1,9 @@
+{
+  "name": "fusionlm-research-kit",
+  "version": "1.0.0",
+  "description": "Scientific harness research, Brave discovery, source forensics, isolated experiments, budget and continuity skills. No auto-run hooks or MCP.",
+  "author": {
+    "name": "FusionLM"
+  },
+  "license": "MIT"
+}
